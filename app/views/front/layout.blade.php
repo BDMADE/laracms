@@ -1,0 +1,2 @@
+{{AdminLayoutController::passlayout()}}
+
